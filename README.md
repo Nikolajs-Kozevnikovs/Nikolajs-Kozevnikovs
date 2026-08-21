@@ -18,8 +18,8 @@
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nodejs,react,mongodb" />
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,vue,git,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=js,nodejs,react,mongodb" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,figma" />
 </p>
 
 <hr>
